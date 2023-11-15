@@ -8,7 +8,7 @@ This SVG Logo Generator is a Node.js application that allows users to create sim
 ## Features
 
 - Generate SVG logos with user-defined text and colors.
-- Choice of shapes: Square, Circle, Triangle.
+- Choice of shapes: Rectangle, Ellipse, Pentagon.
 - Customizable text and shape colors.
 - Simple and interactive CLI prompts.
 
