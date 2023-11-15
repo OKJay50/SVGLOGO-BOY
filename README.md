@@ -18,20 +18,18 @@ To run this project, you need to have Node.js installed on your system. If you d
 
 1. Clone the repository to your local machine:
 
-git clone [[repository-url](https://github.com/OKJay50/svglogo-boy.git)]
+ `git clone https://github.com/OKJay50/svglogo-boy.git `
 
 
 
 2. Navigate to the project directory:
 
-  cd svg-logo-generator
+ ` cd svg-logo-generator `
 
 
 
 3. Install the necessary dependencies:
-   npm install:
-- inquirer
-- fs 
+  ` npm install inquirer fs `
 
 
 
