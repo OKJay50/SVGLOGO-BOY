@@ -18,7 +18,7 @@ To run this project, you need to have Node.js installed on your system. If you d
 
 1. Clone the repository to your local machine:
 
-git clone [repository-url]
+git clone [[repository-url](https://github.com/OKJay50/svglogo-boy.git)]
 
 
 
