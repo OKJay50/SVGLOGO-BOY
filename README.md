@@ -52,7 +52,7 @@ Contributions to the SVG Logo Generator are welcome. Please ensure that your pul
 
 ## License
 
-[Add your desired license here]
+MIT LICENSE
 
 ## Acknowledgements
 
