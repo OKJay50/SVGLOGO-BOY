@@ -17,32 +17,34 @@ This SVG Logo Generator is a Node.js application that allows users to create sim
 To run this project, you need to have Node.js installed on your system. If you don't have Node.js installed, you can download it from [Node.js website](https://nodejs.org/).
 
 1. Clone the repository to your local machine:
-Save to grepper
+
 git clone [repository-url]
 
 css
 
 2. Navigate to the project directory:
-Save to grepper
-cd svg-logo-generator
+
+` cd svg-logo-generator
 
 markdown
 
 3. Install the necessary dependencies:
 
-npm install
+` npm install:
+- inquirer
+- fs 
 
-shell
+
 
 
 ## Usage
 
 To start the application, run:
 
-Save to grepper
-node index.js
 
-csharp
+- node index.js
+
+
 
 
 Follow the on-screen prompts to input your desired text, text color, shape, and shape color. The generated SVG logo will be saved in the project directory as `logo.svg`.
