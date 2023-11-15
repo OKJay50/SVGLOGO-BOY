@@ -20,17 +20,16 @@ To run this project, you need to have Node.js installed on your system. If you d
 
 git clone [repository-url]
 
-css
+
 
 2. Navigate to the project directory:
 
-` cd svg-logo-generator
+  cd svg-logo-generator
 
-markdown
+
 
 3. Install the necessary dependencies:
-
-` npm install:
+   npm install:
 - inquirer
 - fs 
 
